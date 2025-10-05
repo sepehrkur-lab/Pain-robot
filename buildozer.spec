@@ -3,6 +3,7 @@ title = Pain Robot
 package.name = painrobot
 package.domain = org.pain
 source.dir = .
+source.main = main.py
 source.include_exts = py,png,jpg,kv,txt
 version = 0.1
 orientation = portrait
